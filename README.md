@@ -19,5 +19,5 @@ If wrong:
 If right:
 ![](https://github.com/Rule1029/ColorGame/raw/master/ColorGame/%E6%88%AA%E5%B1%8F2020-05-01%2011.10.51.png)
 
-Then use the "Try Again" button to start a new game.
+Then use the "New Game" button to start a new game.
 ![](https://github.com/Rule1029/ColorGame/raw/master/ColorGame/%E6%88%AA%E5%B1%8F2020-05-01%2011.14.53.png)
